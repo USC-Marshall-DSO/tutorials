@@ -1,3 +1,5 @@
+## @knitr metrics
+
 se_metric_func <- function(model, out) {
      # Calculate the metric
      sq_err <- (out$Y_bar - model$mu)^2
