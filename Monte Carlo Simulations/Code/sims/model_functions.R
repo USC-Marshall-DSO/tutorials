@@ -1,3 +1,5 @@
+## @knitr models
+
 sample_mean_model <- function(n, mu){
     
     samp_mean_mod <- new_model(name = "samp_mean_mod", 
