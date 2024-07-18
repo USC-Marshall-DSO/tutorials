@@ -1,0 +1,17 @@
+---
+title: "Monte Carlo Simulations"
+author: "Greg Faletto"
+date: "2023-06-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Monte Carlo Simulations
+
+This directory contains materials from my tutorial on Monte Carlo simulations for USC JumpStart on June 29th, 2023.
+
+* The subdirectory "Code" contains code we worked on in the tutorial, as well as some additional code.
+* The subdirectory "Slides" contains a pdf of the slides from the tutorial. The slides also explain the code in detail.
